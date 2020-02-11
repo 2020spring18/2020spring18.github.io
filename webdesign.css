@@ -2,7 +2,7 @@
 
 body
 {background-color: maroon;
-color: dodgerblue}
+color: dodgerblue;}
 .title {
 	border: thick ridge aliceblue;
 	text-transform: capitalize;
@@ -22,22 +22,22 @@ h3 {
 }
 
 #info {
-	color: ivory
+	color: ivory;
 }
 	
 #links {
 	color: darkkhaki;
 	border: thick ridge aliceblue;
-	background-color: brown
+	background-color: brown;
 }
 
 p {
 	font-weight: bold;
-	line-height: normal
+	line-height: normal;
 }
 
 li {color: aqua;
 	color: darkkhaki;
 	border: thin;
-	background-color: brown
+	background-color: brown;
 }
