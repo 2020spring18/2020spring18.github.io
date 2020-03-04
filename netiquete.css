@@ -15,7 +15,7 @@ aside {
 	border: thick solid #686868;
 	border-top-left-radius: 10px; 
 	float: right;
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 }
 body {
 	width: 1000px;
