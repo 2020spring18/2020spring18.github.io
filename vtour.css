@@ -8,22 +8,14 @@ body	{
 }
 
 .topnav a {
-  float: left;
-  color: #B81ACA ;
+ 
   text-align: center;
+  color: #B81ACA ;
   padding: 12px;
+   float: left;
   font-size: 20px;
 }
 
-.topnav a:hover {
-  background-color: #121005  ;
-  color: #EECC21 ;
-}
-
-.topnav a.active {
-  background-color: #121005  ;
-  color: #EECC21 ;
-}
 
 h1	{
 	font-family:  "Times New Roman";
@@ -46,5 +38,16 @@ p	{
 	margin-top: 2px;
 }
 
-a:link {color: darkgreen}
-a:hover {color: blue}
+a:link {color: #1A823C }
+a:hover {color: #2E5ACB }
+
+.topnav a:hover {
+  background-color: #121005  ;
+  color: #EECC21 ;
+}
+
+.topnav a.active {
+  background-color: #121005  ;
+  color: #EECC21 ;
+}
+
