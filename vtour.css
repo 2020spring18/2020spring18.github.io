@@ -1,3 +1,7 @@
+body	{
+	background-color:red
+}
+
 .topnav {
   background-color: #333;
 
@@ -12,45 +16,34 @@
 }
 
 .topnav a:hover {
-  background-color: #ddd;
-  color: red;
+  background-color: white;
+  color: gold;
 }
 
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: white;
   color: gold;
 }
 
 h1	{
   text-align: center;
-	}
-h1
-{
-	font-family: Times, "Times New Roman";
-	font-weight: bolder;
-	color:#FFFFFF;
+        margin-bottom: 10px;
+	margin-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	border: medium solid #A40525;
+	border-top-left-radius: 10px; 
 }
+
 p	{
 	font-family: Times, "Times New Roman";
 	padding-right: 10px;
 	border-style: solid;
-	color:#FFFFFF;
-}
-body	{
-	background-color:#000000
-}
-
-p 	{
 	padding-right: 5px;
 	margin-top: 2px;
-	border-style: solid;	
 }
-a:link { 
-	color:aqua;
-}
-a:hover {
-	color: #F802E0;
-}
-ul	{
-	color:#FFFFFF;
-}
+
+a:link {color: darkgreen}
+a:hover {color: blue}
